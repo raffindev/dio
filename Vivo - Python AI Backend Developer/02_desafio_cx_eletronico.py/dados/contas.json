@@ -1,0 +1,20 @@
+[
+    {
+        "cpf": "12345678911",
+        "agencia": "0001",
+        "conta_corrente": 1,
+        "saldo": 1500.0
+    },
+    {
+        "cpf": "98765432199",
+        "agencia": "0001",
+        "conta_corrente": 2,
+        "saldo": 500.0
+    },
+    {
+        "cpf": "12345678911",
+        "agencia": "0001",
+        "conta_corrente": 3,
+        "saldo": 300.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Chris Readfield",
+        "data_nascimento": "1993-11-16",
+        "cpf": "12345678911",
+        "endereço": {
+            "logradouro": "Av Raccon City",
+            "numero": "s/n",
+            "bairro": "Raccon",
+            "cidade": "São Paulo",
+            "estado": "SP"
+        }
+    },
+    {
+        "nome": "Leon de Lamilha",
+        "data_nascimento": "2000-03-18",
+        "cpf": "98765432199",
+        "endereço": {
+            "logradouro": "Av São Paulo",
+            "numero": "292",
+            "bairro": "Butantã",
+            "cidade": "São Paulo",
+            "estado": "SP"
+        }
+    }
+]
