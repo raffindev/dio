@@ -1,6 +1,4 @@
 # Conta corrente
-from usuario import criar_usuario
-
 def criar_conta_corrente(lista_contas, usuario):
     numero_conta = len(lista_contas) + 1
 
